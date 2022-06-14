@@ -25,7 +25,8 @@ const App = () => {
   return (
  
       <div className="container mx-auto col-3 border mt-3">
-        <h1 className="text-center">IDK Throw Me a Bone</h1>
+        <h1 className="text-center">Title Listing</h1>
+        
         <br />
         {/* input */}
             <Input placeholderText="Testing"
